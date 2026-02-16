@@ -13,3 +13,6 @@ Year 1, semester 2
 - `Lecture 1`
   - [During the lecture](my_first_program.ipynb)
   - [Exercises](Lecture_1_exercises.ipynb)
+- `Lecture 2`
+  - [During the lecture](Lecture_2_In_Class.ipynb)
+  - [Exercises](Lecture_2_exercises.ipynb)
