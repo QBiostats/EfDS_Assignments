@@ -1,13 +1,5 @@
 # Course: Essentials of Data science
-Year 1, semester 2
-
-**Steps on how to add a new file:**
-- Open the terminal.
-- git status
-  - You should see untracked files:...
-- git add name_of_the_file.ipynb  OR  git add .
-- git commit -m "your_title"   _The title can be anything._
-- git push
+Year 1, semester 2, 2026
 
 ## All exercises from each lecture
 - `Lecture 1`
@@ -32,3 +24,6 @@ Year 1, semester 2
     - [Additional file: graph.mx](g.mx)
     - [Additional file: shuffle_lines.py](shuffle_lines.py)
       - [Corresponding txt file](nums_sh.txt)
+- `Lecture 6`
+  - [During the lecture](Lecture_6_In_Class.ipynb)
+  - [Exercises](Lecture_6_exercises.ipynb)
