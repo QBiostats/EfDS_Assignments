@@ -27,3 +27,6 @@ Year 1, semester 2, 2026
 - `Lecture 6`
   - [During the lecture](Lecture_6_In_Class.ipynb)
   - [Exercises](Lecture_6_exercises.ipynb)
+- `Lecture 7`
+  - [During the lecture](Lecture_7_In_Class.ipynb)
+    - [Additional file: df.csv](df.csv)
