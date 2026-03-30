@@ -30,3 +30,6 @@ Year 1, semester 2, 2026
 - `Lecture 7`
   - [During the lecture](Lecture_7_In_Class.ipynb)
     - [Additional file: df.csv](df.csv)
+- `Lecture 8`
+  - [During the lecture](Lecture_8_In_Class.ipynb)
+
