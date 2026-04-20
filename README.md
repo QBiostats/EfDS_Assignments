@@ -32,4 +32,8 @@ Year 1, semester 2, 2026
     - [Additional file: df.csv](df.csv)
 - `Lecture 8`
   - [During the lecture](Lecture_8_In_Class.ipynb)
-
+- `Lecture 9`
+  - [During the lecture](Lecture_9_In_Class.ipynb)
+    - [Additional File: chinook.zip](chinook.zip)
+    - [Additional File: chinook.db](chinook.db)
+  - [Exercises](Lecture_9_exercises.ipynb)
