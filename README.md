@@ -37,3 +37,5 @@ Year 1, semester 2, 2026
     - [Additional File: chinook.zip](chinook.zip)
     - [Additional File: chinook.db](chinook.db)
   - [Exercises](Lecture_9_exercises.ipynb)
+- `Lecture 10`
+  - [Exercises](Lecture_10_exercises.ipynb)
