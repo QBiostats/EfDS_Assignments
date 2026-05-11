@@ -39,3 +39,5 @@ Year 1, semester 2, 2026
   - [Exercises](Lecture_9_exercises.ipynb)
 - `Lecture 10`
   - [Exercises](Lecture_10_exercises.ipynb)
+- `Lecture 12`
+  - [Lecture + exercises](Lecture_12_Lecture_exercises.ipynb)
